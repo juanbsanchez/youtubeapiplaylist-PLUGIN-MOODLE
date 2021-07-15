@@ -1,4 +1,4 @@
-# YOUTUEAPIPLAYLIST - Plugin for moodle
+# YOUTUBEAPIPLAYLIST - Plugin for moodle
 
 <b>Last version compatible:</b> <strong>3.8.2+ (Build: 20200312)</strong>
 
